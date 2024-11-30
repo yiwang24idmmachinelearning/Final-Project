@@ -7,14 +7,10 @@ Details:
 Using publicly available sign language data sets, machine learning models are trained to recognize sign language and translate it into text or speech.
 Explore how to achieve cross-language translation between different sign languages (e.g. ASL, BSL).
 Think about the diversity of sign language data and how to provide equitable support to users of different languages globally.
+
 Use these images to train a classifier for the words or letters. Design a model to crop the hands out of the picture first, and then do classification.
 
 Dataset examples:
 
-[ASL Alphabets](https://www.kaggle.com/datasets/aishikai/asl-alphabets)
-
-[Hand Gestures Dataset](https://www.kaggle.com/datasets/adhoppin/hand-gestures-dataset)
-
 [SIGN LANGUAGE DATASET](https://www.kaggle.com/datasets/nikhilgawai/sign-language-dataset)
 
-[Sign Language Hand Gesture Recognition](https://www.kaggle.com/datasets/gauravduttakiit/sign-language-hand-gesture-recognition)
